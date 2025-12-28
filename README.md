@@ -1,6 +1,12 @@
 <div align="center">
 
-## 👨‍💻 Error-Makes-Clever
+<h1 align="center" style="font-size:48px; font-weight:900; color:#00E5FF;">
+  👨‍💻 Error Makes Clever
+</h1>
+
+<p align="center">
+  <em>Aspiring Data Scientist & MLOps Engineer</em>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=850&lines=Hi+There!+👋+I'm+Sujil+S;Aspiring+Data+Scientist+%26+MLOps+Engineer;Building+Scalable+ML+Pipelines;Turning+Data+into+Production+Systems;Every+Bug+is+a+Lesson+🐛;Every+Error+is+an+Opportunity+💡;Debugging+My+Way+to+Mastery+🚀;Making+Clever+Solutions+from+Mistakes)](https://git.io/typing-svg)
 
