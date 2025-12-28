@@ -1,17 +1,21 @@
 # 💫 About Me:
-Hi, I’m Sujil S, a Data Science and MLOps enthusiast passionate about building scalable, production-ready machine learning systems. I focus on bridging the gap between model development and real-world deployment by combining strong data science fundamentals with modern MLOps practices.<br><br>My work revolves around:<br><br>📊 Data Science & Machine Learning – data preprocessing, feature engineering, model training, evaluation, and optimization<br><br>⚙️ MLOps & Experiment Tracking – MLflow, DVC, versioned pipelines, reproducible experiments<br><br>🧠 Model Lifecycle Management – from experimentation to deployment and monitoring<br><br>🐳 DevOps for ML – Docker, Git, CI/CD workflows, and reproducible environments<br><br>🌐 API & Deployment – FastAPI-based model serving and scalable ML applications<br><br>I enjoy turning raw data into meaningful insights and building end-to-end ML pipelines that are clean, reproducible, and production-ready. My GitHub reflects my continuous learning journey, hands-on experiments, and real-world ML system design.<br><br>🚀 Always learning. Always building. Always improving.
-
+Hi, I'm Sujil S, a Data Science and MLOps enthusiast passionate about building scalable, production-ready machine learning systems. I focus on bridging the gap between model development and real-world deployment by combining strong data science fundamentals with modern MLOps practices.<br><br>My work revolves around:<br><br>📊 Data Science & Machine Learning – data preprocessing, feature engineering, model training, evaluation, and optimization<br><br>⚙️ MLOps & Experiment Tracking – MLflow, DVC, versioned pipelines, reproducible experiments<br><br>🧠 Model Lifecycle Management – from experimentation to deployment and monitoring<br><br>🐳 DevOps for ML – Docker, Git, CI/CD workflows, and reproducible environments<br><br>🌐 API & Deployment – FastAPI-based model serving and scalable ML applications<br><br>I enjoy turning raw data into meaningful insights and building end-to-end ML pipelines that are clean, reproducible, and production-ready. My GitHub reflects my continuous learning journey, hands-on experiments, and real-world ML system design.<br><br>🚀 Always learning. Always building. Always improving.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sujil-s)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujil192110912@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif" width="100%">
+---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=850&lines=Hi+There!+👋+I'm+Sujil+S;Aspiring+Data+Scientist+%26+MLOps+Engineer;Building+Scalable+ML+Pipelines;Turning+Data+into+Production+Systems)](https://git.io/typing-svg)
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
+
+## 👨‍💻 Error-Makes-Clever
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&width=850&lines=Every+Bug+is+a+Lesson+🐛;Every+Error+is+an+Opportunity+💡;Debugging+My+Way+to+Mastery+🚀;Making+Clever+Solutions+from+Mistakes)](https://git.io/typing-svg)
+
+<img src="https://github.com/user-attachments/assets/fddcdbcd-5ea2-4416-9f59-ca7fd9394aca" width="300">
 
 </div>
 
